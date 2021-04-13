@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iskanderkurbanov&show_icons=true)](https://github.com/iskanderkurbanov/github-readme-stats)
+
 ![alt text](http://qrcoder.ru/code/?https%3A%2F%2Fiskanderkurbanov.github.io%2F&4&0) 
 
 or [iskanderius.design](http://iskanderkurbanov.github.io/)
