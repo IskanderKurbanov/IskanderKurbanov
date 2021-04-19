@@ -2,7 +2,7 @@
 
 ![creator by Anurag](https://github-readme-stats.vercel.app/api?username=iskanderkurbanov&hide=stars,prs,issues,contribs&show_icons=true)
 
-![byveeee](https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderkurbanov)
+![byveeee](https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderkurbanov&layout=compact)
 
 ![alt text](http://qrcoder.ru/code/?https%3A%2F%2Fiskanderkurbanov.github.io%2F&4&0) 
 
